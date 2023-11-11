@@ -1,0 +1,8 @@
+{
+    "files": [
+        "DarazWishlist.ui",
+        "addLink.ui",
+        "mainwindow.py",
+        "resource.qrc"
+    ]
+}
