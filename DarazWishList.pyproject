@@ -1,8 +1,7 @@
 {
     "files": [
-        "DarazWishlist.ui",
-        "addLink.ui",
+        "__Interface__/DarazWishlist.ui",
         "mainwindow.py",
-        "resource.qrc"
+        "__Interface__/resource.qrc"
     ]
 }

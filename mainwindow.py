@@ -1,9 +1,9 @@
 # This Python file uses the following encoding: utf-8
-import re
 import sys
-from PySide6.QtWidgets import QApplication, QMainWindow, QDialog
+from PySide6.QtWidgets import QApplication, QMainWindow
 from PySide6.QtTest import QTest
-from ui_DarazWishlist import Ui_MainWindow as mainWindowUI
+from __Interface__.rc_resource import *
+from __Interface__.ui_DarazWishlist import Ui_MainWindow as mainWindowUI
 from darazWishListClick import darazWishListClick
 import time
 from threading import Thread

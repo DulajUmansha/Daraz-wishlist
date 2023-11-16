@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resource/icon/list.svg</file>
+        <file>resource/icon/settings.svg</file>
+        <file>resource/icon/chevron-left.svg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resource/image/darazLogo.png</file>
+        <file>resource/image/OIP.jpeg</file>
+        <file>resource/image/wishlist.png</file>
+        <file>resource/image/mansaranna.png</file>
+        <file>resource/image/help.png</file>
+    </qresource>
+</RCC>
